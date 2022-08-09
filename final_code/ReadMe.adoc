@@ -1,0 +1,48 @@
+:Author: Fiorella Ratti
+:Email: frattitamayo@usf.edu
+:Date: 21/11/2020
+:Revision: version#1
+:License: Public Domain
+
+= Project: {Arduino car}
+
+Describe your project
+
+== Step 1: Installation
+
+For example:
+
+1. Open this file
+2. Edit the distance for the robot to turn
+3. Release to the World!
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit following the diagram showed on the following link
+https://drive.google.com/file/d/11JLkDnkoWuwFYRFdin4n7Kh5TO8ZssGU/view?usp=sharing
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== License
+This project is released under a Public domain License.
+
+=== Contributing
+To contribute to this project please contact Fiorella Ratti https://id.arduino.cc/fiorella050
+
+=== BOM
+The bill of the materials you need for this project.
+
+|===
+| ID | Part name         | Part number | Quantity
+| R1 | 10k Resistor      | 1           | 2
+| L1 | Red LED           | 2           | 1
+| U1 | UNO board         | 3           | 1
+| M1 | DC motor          | 4           | 2
+| L1 | L298N H-Bridge    | 5           | 1
+| U1 | Ultrasonic sensor | 6           | 1
+|===
+
+
+
